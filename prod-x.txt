@@ -4,3 +4,6 @@ j'ajoute cette ligne sans rien toucher sur main pour un deuxieme commit
 
 j'ajoute cette ligne sans rien toucher sur main pour un 3eme commit
 sf
+ddf
+test git cherry -v
+>>>>>>> a421578 (test git cherry -v)
